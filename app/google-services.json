@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921162600472",
+    "firebase_url": "https://test-663cd.firebaseio.com",
+    "project_id": "test-663cd",
+    "storage_bucket": "test-663cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921162600472:android:9ad49143aba893f0e3f36d",
+        "android_client_info": {
+          "package_name": "com.github.woochanlee.basecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921162600472-tdmp2sq09abqiqj8sf7fl4jmtoh4ebad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_bYObB2V3INh7aPP11IItMlL6dSA5-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921162600472-tdmp2sq09abqiqj8sf7fl4jmtoh4ebad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
